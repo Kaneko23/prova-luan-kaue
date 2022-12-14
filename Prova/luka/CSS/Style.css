@@ -1,0 +1,19 @@
+body {
+    background-color: #292929;
+}
+.text-color{
+    color: #dadada;
+}
+.mt-0 {
+    color: #dadada;
+    margin-top: 150px !important;
+  }
+
+.bg-gray{
+    background-color:#151515 ;
+}
+
+.img{
+  margin-left: 300px ;
+  opacity: 0.03;
+}
